@@ -1,0 +1,2 @@
+# This is the only dependency needed to run this project
+Flask>=2.0
